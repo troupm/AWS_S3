@@ -4,7 +4,7 @@
   "description": "",
   "main": "bpo-s3-pdf-service.js",
   "dependencies": {
-    "aws-sdk": "^2.678.0",
+    "aws-sdk": "^2.814.0",
     "base64-stream": "^1.0.0",
     "express": "^4.17.1"
   },
